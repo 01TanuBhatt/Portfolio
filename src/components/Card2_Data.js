@@ -28,10 +28,6 @@ const CardData =[
         title: "Ecommerce",
         text:"ejfehbfrbfghrgtghtbh"
     },
-    {
-        imgs:pro5,
-        title: "Ecommerce",
-        text:"ejfehbfrbfghrgtghtbh"
-    }
+    
 ];
 export default CardData;
