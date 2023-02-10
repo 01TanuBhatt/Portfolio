@@ -6,7 +6,7 @@ import React from 'react'
 const Card2 = () => {
   return (
     <div className="card-container">
-        <h1 className="project-heading">Project</h1>
+        <h1 className="project-heading">Skills</h1>
         <div className="project-container">
             {Card2_Data.map((val,ind)=>{
                 return(
